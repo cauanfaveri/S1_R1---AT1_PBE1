@@ -14,6 +14,5 @@ const produtosModel = {
             return rows;
         }
     }
-}
-
+};
 export default produtosModel;
